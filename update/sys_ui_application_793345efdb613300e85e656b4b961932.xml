@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Hello World</name>
+        <order/>
+        <roles>x_21604_hello_worl.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-27 06:13:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>793345efdb613300e85e656b4b961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello World</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello World" source="x_21604_hello_worl">d13381ebdb613300e85e656b4b9619b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">d13381ebdb613300e85e656b4b9619b2</sys_scope>
+        <sys_update_name>sys_ui_application_793345efdb613300e85e656b4b961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-27 06:13:54</sys_updated_on>
+    </sys_ui_application>
+</record_update>
